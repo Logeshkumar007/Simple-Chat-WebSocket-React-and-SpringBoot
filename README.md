@@ -5,7 +5,7 @@ This is a sample project to provide example on how to make chat application by u
 In Backend The example uses maven as a build tool and also sample script to run on application startup so that anybody can get started by simply running ChatApplication.java
 
 ### Technology Used
-Spring Boot, React, PostgreSQL, Java 20, SocketIO.
+Spring Boot, React, PostgreSQL, Java 20, SocketIO .
 
 ### How to run
 
